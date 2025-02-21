@@ -16,7 +16,7 @@ This standalone mini-game for RedM RP servers challenges players with quick key-
 2. Add the mini-game folder to your RedM server’s `resources` directory.
 3. Update your server configuration (`server.cfg`) to include:
    ```plaintext
-   ensure legends-keypress
+   ensure legends-keypress (above all codex scripts)
    ```
 
 ## 🚀 Usage
